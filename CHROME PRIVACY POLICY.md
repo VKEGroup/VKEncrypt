@@ -9,3 +9,6 @@ All personal data is used for extensions functioning only.
 # Information sharing
 
 Extensions can use open-source libraries for its functioning only.
+
+# List of specific privacy policies for each VKE product:
+1. [VKEncrypt Mozilla add-on / Chrome extension](https://github.com/VKEGroup/VKEncrypt/blob/master/VKENCRYPT%20PRIVACY%20POLICY.md)
